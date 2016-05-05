@@ -1,0 +1,24 @@
+
+.box1, .box2 {
+	background-color: red;
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+.box1{
+	margin-right: 20px;
+}
+.box2{
+	clear: right;
+}
+.box3, .box4 {
+	background-color: blue;
+	float: left;
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+}
+.box3{
+	margin-right: 20px;
+	clear: left;
+}
